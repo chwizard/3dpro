@@ -53,6 +53,9 @@ Binaries/*
 # Builds
 Build/*
 
+# For store file (overordna fil, så må med)
+Content/FirstPersonCPP/Maps/FirstPersonExampleMap.umap
+
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
