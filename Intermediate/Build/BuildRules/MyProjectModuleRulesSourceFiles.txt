@@ -1,0 +1,3 @@
+D:\Github\3dpro\Source\MyProject\MyProject.Build.cs
+D:\Github\3dpro\Source\MyProject.Target.cs
+D:\Github\3dpro\Source\MyProjectEditor.Target.cs
