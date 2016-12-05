@@ -46,6 +46,7 @@ SourceArt/**/*.tga
 
 # Starter Pack
 Content/StarterContent/*
+Content/StarterContent/HDRI/*
 
 # Binary Files
 Binaries/*
